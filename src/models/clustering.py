@@ -1,5 +1,6 @@
 ﻿import pandas as pd
 from sklearn.cluster import KMeans
+from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.decomposition import PCA
@@ -23,14 +24,16 @@ except FileNotFoundError:
     print(f"Error: Could not find dataset. Please run src/features/preprocessing.py first!")
     exit()
 
-# 2. Find optimal K using Elbow Method
-print("Calculating Elbow Method to find optimal K...")
+# 2. Find optimal K using Elbow Method and Silhouette Score
+print("Calculating Elbow Method and Silhouette Scores to find optimal K...")
 wcss = []
+silhouette_scores = {}
 K_range = range(2, 30)
 for k in K_range:
     kmeans_temp = KMeans(n_clusters=k, random_state=42, n_init='auto')
-    kmeans_temp.fit(X_train)
+    labels = kmeans_temp.fit_predict(X_train)
     wcss.append(kmeans_temp.inertia_)
+    silhouette_scores[k] = silhouette_score(X_train, labels)
 
 plt.figure(figsize=(10, 6))
 plt.plot(K_range, wcss, marker='o', linestyle='--')
@@ -42,8 +45,10 @@ plt.savefig(REPORTS_DIR / 'elbow_plot.png')
 print(f"Elbow plot saved to {REPORTS_DIR / 'elbow_plot.png'}")
 plt.close()
 
-# You can adjust this 'k' value based on the elbow graph above
-k = 8  # Assuming 18 as default new k, but user can change after seeing the plot
+# Automatically select the best 'k' based on the highest Silhouette Score
+k = max(silhouette_scores, key=silhouette_scores.get)
+print(f"Automatically found optimal k={k} (Highest Silhouette Score: {silhouette_scores[k]:.4f})")
+
 print(f"Training K-Means Model with k={k}...")
 kmeans = KMeans(n_clusters=k, random_state=42, n_init='auto')
 kmeans.fit(X_train)

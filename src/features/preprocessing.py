@@ -11,9 +11,9 @@ df = pd.read_csv(DATA_DIR / 'recipes_processed.csv')
 
 # --- OUTLIER FILTERING ---
 # Fiyatı çok saçma olanları (5 TL altı ve 150 TL üstü) ve kalorisi anlamsız yüksek/düşük olanları filtreliyoruz.
-df = df[(df['price_try'] > 30) & (df['price_try'] < 200)]
-df = df[(df['calories_kcal'] > 50) & (df['calories_kcal'] < 1000)]
-df = df[(df['protein_g'] > 0) & (df['protein_g'] < 60)]
+df = df[(df['price_try'] > 20) & (df['price_try'] < 300)]
+df = df[(df['calories_kcal'] > 50) & (df['calories_kcal'] < 800)]
+df = df[(df['protein_g'] > 0) & (df['protein_g'] < 65)]
 # Filtreleme sonrası indexleri sıfırlayalım (menü eşleştirmelerinde kayma olmasın diye)
 df = df.reset_index(drop=True)
 # Veriyi tekrar kaydediyoruz ki, clustering sonrası menü üretimi (menu_generator) de bu temizlenmiş veriyi baz alsın
