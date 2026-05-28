@@ -49,23 +49,23 @@ A smart, Python and Streamlit-based application designed to generate optimized w
    source .venv/bin/activate
    `
 3. **Install Dependencies**
-   `ash
+   ```bash
    pip install pandas numpy streamlit scikit-learn matplotlib seaborn beautifulsoup4 requests
-   `
+   ```
 4. **Prepare the Data**
    *(Ensure you run the scraper, preprocessor, and clustering algorithms first to generate clustered_data.csv and processed_X_train.csv)*
-   `ash
+   ```bash
    python src/features/preprocessing.py
    python src/models/clustering.py
-   `
+   ```
 
 ## 💻 Usage
 
 To launch the Streamlit interface, run the following command from the root directory:
 
-`ash
+```bash
 streamlit run src/app.py
-`
+```
 
 The application will open in your default web browser where you can set your target limits and generate the weekly plans.
 
