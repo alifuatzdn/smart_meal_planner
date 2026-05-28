@@ -12,8 +12,6 @@ A smart, Python and Streamlit-based application designed to generate optimized w
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```text
 .
 ├── data/
