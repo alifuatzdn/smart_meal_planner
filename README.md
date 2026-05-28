@@ -30,7 +30,7 @@ A smart, Python and Streamlit-based application designed to generate optimized w
 │   │   ├── clustering.py        # ML clustering models for recipe variety
 │   │   └── hyperparameter_tuning.py # Optuna/Grid search scripts
 │   └── scraper/
-│       └── recipe_scrapper.py   # Web scraper for recipe data
+│       └── recipe_scraper.py   # Web scraper for recipe data
 ├── .gitignore                   # Ignored files and folders
 └── README.md                    # Project documentation
 ```
@@ -42,19 +42,20 @@ A smart, Python and Streamlit-based application designed to generate optimized w
    ```bash
    python -m venv .venv
    ```
-   # For Windows
+   ### Windows
    ```bash
    .\.venv\Scripts\activate
    ```
-   # For Mac/Linux
+   
+   ### Mac/Linux
    ```bash
    source .venv/bin/activate
    ```
-4. **Install Dependencies**
+3. **Install Dependencies**
    ```bash
    pip install pandas numpy streamlit scikit-learn matplotlib seaborn beautifulsoup4 requests
    ```
-5. **Prepare the Data**
+4. **Prepare the Data**
    *(Ensure you run the scraper, preprocessor, and clustering algorithms first to generate clustered_data.csv and processed_X_train.csv)*
    ```bash
    python src/features/preprocessing.py
