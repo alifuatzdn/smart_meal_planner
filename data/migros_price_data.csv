@@ -1,0 +1,178 @@
+﻿İsim;Kategori;Birim Tipi;Migros Fiyatı;Birim
+Buğday Unu;Temel Gıda;kg;63.95;1 Kg
+Toz Şeker;Temel Gıda;kg;47.95;1 Kg
+Küp Şeker;Temel Gıda;kg;52.95;1 Kg
+Ayçiçek Yağı;Temel Gıda;litre;109.95;1 L
+Sızma Zeytinyağı;Temel Gıda;litre;489.95;1 L
+Riviera Zeytinyağı;Temel Gıda;litre;409.95;1 L
+Mısır Özü Yağı;Temel Gıda;litre;182.95;1 L
+İyotlu Kaya Tuzu;Temel Gıda;kg;89.95;500 G
+Sofra Tuzu;Temel Gıda;kg;12.5;750 G
+Su;Temel Gıda;litre;36.5;5 L
+İnstant Kuru Maya;Temel Gıda;kg;20.95;55 G
+Yaş Hamur Mayası;Temel Gıda;kg;42.45;168 G
+Kabartma Tozu;Temel Gıda;kg;15.45;50 G
+Şekerli Vanilin;Temel Gıda;kg;21.45;50 G
+Galeta Unu;Temel Gıda;kg;34.95;250 G
+Pudra Şekeri;Temel Gıda;kg;24.45;250 G
+Kuru Soğan;Sebze;kg;74.95;1 Kg
+Patates;Sebze;kg;79.95;1 Kg
+Limon;Sebze;kg;136.5;1 Kg
+Salkım Domates;Sebze;kg;99.95;1 Kg
+Tarla Domates;Sebze;kg;175.5;1 Kg
+Çeri Domates;Sebze;kg;102.95;500 G
+Yeşil Sivri Biber;Sebze;kg;125.95;1 Kg
+Çarliston Biber;Sebze;kg;52.5;1 Kg
+Kırmızı Kapya Biber;Sebze;kg;272.95;1 Kg
+Dolmalık Biber;Sebze;kg;62.95;1 Kg
+Taze Fasulye;Sebze;kg;136.5;1 Kg
+Havuç;Sebze;kg;119.95;1 Kg
+Patlıcan;Sebze;kg;52.5;1 Kg
+Kabak;Sebze;kg;62.95;1 Kg
+Kültür Mantarı;Sebze;kg;92.95;400 G
+Ispanak;Sebze;kg;104.95;1 Kg
+Brokoli;Sebze;kg;167.95;1 Kg
+Karnabahar;Sebze;adet;83.95;1 Adet
+Beyaz Lahana;Sebze;adet;73.5;1 Adet
+Kırmızı Lahana;Sebze;adet;157.5;1 Adet
+Kereviz;Sebze;kg;120.95;1 Kg
+Enginar;Sebze;adet;68.5;1 Adet
+Salatalık;Sebze;kg;83.95;1 Kg
+Kıvırcık Marul;Sebze;adet;78.95;1 Adet
+Göbek Marul;Sebze;adet;99.95;1 Adet
+Maydanoz;Sebze;adet;36.95;1 Demet
+Dereotu;Sebze;adet;36.95;1 Demet
+Taze Nane;Sebze;adet;29.5;1 Demet
+Roka;Sebze;adet;29.5;1 Demet
+Taze Soğan;Sebze;adet;68.5;1 Demet
+Semizotu;Sebze;adet;57.95;1 Demet
+Bamya;Sebze;kg;380.95;1 Kg
+Elma;Meyve;kg;115.5;1 Kg
+Armut;Meyve;kg;123.95;1 Kg
+Portakal;Meyve;kg;62.95;1 Kg
+Muz;Meyve;kg;102.95;1 Kg
+Çilek;Meyve;kg;180.5;1 Kg
+Siyah Üzüm;Meyve;kg;339.95;1 Kg
+Yeşil Üzüm;Meyve;kg;410.95;1 Kg
+Karpuz;Meyve;kg;49.9;1 Kg
+Kavun;Meyve;kg;104.95;1 Kg
+Şeftali;Meyve;kg;102.95;1 Kg
+Kayısı;Meyve;kg;83.95;1 Kg
+Erik;Meyve;kg;179.9;1 Kg
+Kiraz;Meyve;kg;104.95;250 G
+İncir;Meyve;kg;99.9;380 G
+Tam Yağlı Süt;Süt ve Süt Ürünleri;litre;115.0;1 L
+Yarım Yağlı Süt;Süt ve Süt Ürünleri;litre;59.5;1 L
+Tam Yağlı Yoğurt;Süt ve Süt Ürünleri;kg;86.9;1000 G
+Süzme Yoğurt;Süt ve Süt Ürünleri;kg;99.5;500 G
+Tereyağı;Süt ve Süt Ürünleri;kg;649.0;1000 G
+Yağlı Krema;Süt ve Süt Ürünleri;litre;81.9;200 Ml
+Krem Şanti;Süt ve Süt Ürünleri;kg;72.95;150 G
+Ezine Peyniri;Süt ve Süt Ürünleri;kg;575.5;600 G
+Beyaz Peynir;Süt ve Süt Ürünleri;kg;265.9;1 Kg
+Kaşar Peyniri;Süt ve Süt Ürünleri;kg;534.5;1 Kg
+Tulum Peyniri;Süt ve Süt Ürünleri;kg;384.9;250 G
+Lor Peyniri;Süt ve Süt Ürünleri;kg;65.9;500 G
+Labne Peynir;Süt ve Süt Ürünleri;kg;149.9;400 G
+Yumurta 30'lu;Süt ve Süt Ürünleri;adet;169.9;
+Siyah Zeytin;Kahvaltılık;kg;260.0;1 Kg
+Yeşil Zeytin;Kahvaltılık;kg;219.0;1 Kg
+Çiçek Balı;Kahvaltılık;kg;315.95;850 G
+Çilek Reçeli;Kahvaltılık;kg;74.95;380 G
+Tahin;Kahvaltılık;kg;135.5;300 G
+Üzüm Pekmezi;Kahvaltılık;kg;199.0;800 G
+Pilavlık Bulgur;Bakliyat;kg;70.95;1 Kg
+Köftelik Bulgur;Bakliyat;kg;29.95;1 Kg
+Kırmızı Mercimek;Bakliyat;kg;224.95;1 Kg
+Yeşil Mercimek;Bakliyat;kg;107.95;1 Kg
+Pilavlık Pirinç;Bakliyat;kg;107.95;1 Kg
+Osmancık Pirinç;Bakliyat;kg;149.95;1 Kg
+Baldo Pirinç;Bakliyat;kg;83.95;1 Kg
+Koçbaşı Nohut;Bakliyat;kg;189.95;1 Kg
+Dermason Fasulye;Bakliyat;kg;112.95;1 Kg
+Spagetti Makarna;Bakliyat;kg;34.95;500 G
+Burgu Makarna;Bakliyat;kg;46.95;500 G
+Kalem Makarna;Bakliyat;kg;46.95;500 G
+Arpa Şehriye;Bakliyat;kg;17.95;500 G
+Tel Şehriye;Bakliyat;kg;46.95;500 G
+İrmik;Bakliyat;kg;18.5;500 G
+Cin Mısır;Bakliyat;kg;75.0;1 KG
+Haşlanmış Mısır Konservesi;Bakliyat;adet;115.5;
+Bezelye;Bakliyat;kg;99.95;1 Kg
+Dana Kıyma;Et ve Tavuk;kg;699.95;1 Kg
+Dana Kuşbaşı;Et ve Tavuk;kg;889.95;1 Kg
+Dana Antrikot;Et ve Tavuk;kg;1999.95;1 Kg
+Dana Biftek;Et ve Tavuk;kg;1279.95;1 Kg
+Kuzu Kuşbaşı;Et ve Tavuk;kg;1139.95;1 Kg
+Piliç Göğüs Fileto;Et ve Tavuk;kg;529.95;1 Kg
+Piliç But;Et ve Tavuk;kg;269.95;1 Kg
+Piliç Baget;Et ve Tavuk;kg;257.5;1 Kg
+Piliç Kanat;Et ve Tavuk;kg;269.95;1 Kg
+Bütün Piliç;Et ve Tavuk;kg;529.95;1 Kg
+Dana Sucuk;Et ve Tavuk;kg;475.0;500 G
+Dana Sosis;Et ve Tavuk;kg;555.0;250 G
+Piliç Sosis;Et ve Tavuk;kg;162.9;1000 G
+Salam;Et ve Tavuk;kg;399.0;250 G
+Pastırma;Et ve Tavuk;kg;269.0;100 G
+Ton Balığı;Et ve Tavuk;kg;109.95;320 G
+Somon Fileto;Et ve Tavuk;kg;549.9;500 G
+Karabiber;Baharat ve Sos;kg;58.5;75 G
+Pul Biber;Baharat ve Sos;kg;37.5;85 G
+Tatlı Toz Biber;Baharat ve Sos;kg;57.95;65 G
+Kuru Nane;Baharat ve Sos;kg;16.75;30 G
+Kimyon;Baharat ve Sos;kg;79.95;75 G
+Kekik;Baharat ve Sos;kg;28.5;25 G
+Tarçın;Baharat ve Sos;kg;54.95;45 G
+Çubuk Tarçın;Baharat ve Sos;kg;103.95;50 G
+Susam;Baharat ve Sos;kg;49.95;75 G
+Çörek Otu;Baharat ve Sos;kg;74.95;75 G
+Karanfil;Baharat ve Sos;kg;54.95;15 G
+Zerdeçal;Baharat ve Sos;kg;104.95;100 G
+Zencefil;Baharat ve Sos;kg;74.95;50 G
+Sumak;Baharat ve Sos;kg;154.95;75 G
+İsot;Baharat ve Sos;kg;154.95;75 G
+Yenibahar;Baharat ve Sos;kg;144.95;50 G
+Ketçap;Baharat ve Sos;kg;142.95;500 G
+Mayonez;Baharat ve Sos;kg;81.95;450 G
+Hardal;Baharat ve Sos;kg;75.5;400 G
+Soya Sosu;Baharat ve Sos;litre;184.95;250 Ml
+Nar Ekşisi;Baharat ve Sos;litre;129.95;250 Ml
+Elma Sirkesi;Baharat ve Sos;litre;142.95;1 L
+Üzüm Sirkesi;Baharat ve Sos;litre;107.95;1 L
+Domates Salçası;Baharat ve Sos;kg;107.95;700 G
+Biber Salçası;Baharat ve Sos;kg;79.95;700 G
+Et Bulyon;Baharat ve Sos;kg;21.95;60 G
+Tavuk Bulyon;Baharat ve Sos;kg;21.95;60 G
+Ceviz İçi;Kuruyemiş;kg;299.95;250 G
+Çiğ Badem;Kuruyemiş;kg;259.9;200 G
+Kavrulmuş Fındık;Kuruyemiş;kg;315.0;200 G
+Antep Fıstığı;Kuruyemiş;kg;375.0;200 G
+Kuru Üzüm;Kuruyemiş;kg;59.95;250 G
+Kuru Kayısı;Kuruyemiş;kg;249.95;250 G
+Hindistan Cevizi Tozu;Baharat ve Sos;kg;175.0;50 G
+Kakao Tozu;Baharat ve Sos;kg;59.95;50 G
+Damla Çikolata;Baharat ve Sos;kg;139.95;100 G
+Mor Lahana;Sebze;kg;157.5;1 Kg
+Kırmızı Pancar;Sebze;kg;99.95;1 Kg
+Yaprak Marul;Sebze;adet;110.5;1 Adet
+Taze Reyhan;Sebze;adet;57.95;1 Demet
+Dana Eti;Et ve Tavuk;kg;859.95;1 Kg
+Levrek Fileto;Et ve Tavuk;kg;599.9;1 Kg
+Muskat;Baharat ve Sos;kg;55.0;30 G
+Köri;Baharat ve Sos;kg;118.5;500 G
+Köfte Baharatı;Baharat ve Sos;kg;449.95;500 G
+Karbonat;Temel Gıda;kg;33.45;250 G
+Beşamel Sos;Baharat ve Sos;kg;162.95;400 G
+Yüksük Makarna;Bakliyat;kg;17.95;500 G
+Lazanya;Bakliyat;kg;149.95;500 G
+Yıldız Şehriye;Bakliyat;kg;34.95;500 G
+Kuskus;Bakliyat;kg;139.9;500 G
+Konserve Mısır;Bakliyat;kg;47.5;340 G
+Parmesan Peyniri;Süt ve Süt Ürünleri;kg;255.0;150 G
+Kornişon Turşu;Diğer;kg;179.95;670 G
+Yufka 10'lu;Diğer;adet;179.0;
+Ekmek;Diğer;kg;49.95;350 G
+Dolmalık Fıstık;Kuruyemiş;kg;399.9;500 G
+Kuş Üzümü;Kuruyemiş;kg;67.95;40 G
+Mısır;Sebze;adet;52.90; a
+Ceviz;Sebze;kg;299.95;250 G
